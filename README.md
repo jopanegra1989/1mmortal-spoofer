@@ -11,8 +11,8 @@ R6:Siege
 Fortnit              
 Eas 
 Ap    
-SCU 
-Dead by Day   
+SCU  
+Dead by Day  
 Enlisted  
 Fort
 
