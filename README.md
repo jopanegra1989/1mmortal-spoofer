@@ -8,8 +8,8 @@
 
 ## Work in games -  
 
-BattleEy
- 
+BattleE
+  
 PUBG 
 EF 
 Day
