@@ -9,11 +9,11 @@ BattleE
 PUB     
 R6:Siege               
 Fortnit          
-Easy Anti-c
+Easy Anti-c 
 Ap   
 Ru 
 SCU   
-Dead by Daylig
+Dead by Dayli
 Enlisted 
 Fortnit
 
