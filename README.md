@@ -7,8 +7,8 @@
 ## Work in game 
 BattleE   
 PUB      
-R6:Siege           
-Fortnit         
+R6:Siege          
+Fortnit          
 Easy Anti-c 
 Ap     
 R 
