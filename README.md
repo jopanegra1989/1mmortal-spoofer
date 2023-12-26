@@ -8,11 +8,11 @@
 
 
 ## Work in games - 
-
+ 
 BattleEye:
 
 PUBG
-EFT
+EF
 DayZ
 R6:Siege
 Unturned
