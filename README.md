@@ -8,12 +8,12 @@
 BattleE   
 PUB  
 R6:Siege          
-Untur 
+Untur
 Fortnit       
 
 Easy Anti-che
 Ap   
-Rust 
+Rust  
 SCU
 Dead by Daylight
 Enlisted
