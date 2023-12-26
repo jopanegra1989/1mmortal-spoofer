@@ -10,10 +10,10 @@ PUB
 R6:Siege           
 Fortnit            
 Easy Anti- 
-Ap      
+Ap     
  
 SCU   
-Dead by Day 
+Dead by Day  
 Enlisted  
 Fortnit
 
