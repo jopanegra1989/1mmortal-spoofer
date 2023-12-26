@@ -9,10 +9,10 @@ BattleE
 PUB   
 R6:Siege          
 Unturn
-Fortnit      
+Fortnit     
    
 Easy Anti-cheat
- 
+  
 Ape
 Rust 
 SCUM
