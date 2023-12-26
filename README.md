@@ -10,9 +10,9 @@ PUB
 R6:Siege           
 Un 
 Fortnit        
-Easy Anti-che 
+Easy Anti-che  
 Ap   
-Rust 
+Rust
 SCU
 Dead by Daylight
 Enlisted
