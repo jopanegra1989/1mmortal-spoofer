@@ -10,9 +10,9 @@ PUB
 R6:Siege              
 Fortnit                   
 Eas  
-Ap     
+Ap      
 SCU 
-Dead by Day 
+Dead by Day
 Enlisted   
 Fort
 
