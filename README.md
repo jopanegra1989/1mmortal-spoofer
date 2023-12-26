@@ -9,9 +9,9 @@
 BattleE  
 PUB 
 EF     
-R6:Siege   
+R6:Siege  
 Unturned 
-Arma 
+Arma  
 Fortnite 
 
 Easy Anti-cheat:
