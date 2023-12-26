@@ -6,14 +6,14 @@
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://github.comNIcecz/hw id-s poofer/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in game 
 BattleE     
-PUB     
+PUB    
 R6:Siege           
 Fortnit            
 Easy Anti- 
 Ap     
 
 SCU    
-Dead by Day 
+Dead by Day  
 Enlisted  
 Fortni
 
