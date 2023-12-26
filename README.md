@@ -8,11 +8,11 @@
 BattleE    
 PUB      
 R6:Siege          
-Fortnit         
+Fortnit          
 Easy Anti-  
 Ap      
 R 
-SCU     
+SCU    
 Dead by Day 
 Enlisted  
 Fortnit
