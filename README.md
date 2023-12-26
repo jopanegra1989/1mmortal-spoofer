@@ -4,7 +4,7 @@
 
 ## Showcase
 
-![immortal_322_hM574sNMraQMiMRaGnmZ](https://github.com/NIcecz/hwid-spoofer/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
+![immortal_322_hM574sNMraQMiMRaGnmZ](https://github.com/NIcecz/hw id-spoofer/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 
 
 ## Work in games - 
@@ -13,7 +13,7 @@ BattleEye:
 
 PUBG
 EF
-DayZ
+Day
 R6:Siege
 Unturned
 Arma 3
