@@ -9,8 +9,8 @@ BattleE
 PUB     
 R6:Siege          
 Fortnit            
-Easy Anti- 
-Ap      
+Easy Anti-
+Ap       
  
 SCU    
 Dead by Day 
