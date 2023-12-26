@@ -9,8 +9,8 @@
  
 BattleE 
 PUBG
-EF   
-Day
+EF    
+Da
 R6:Siege
 Unturned
 Arma 3
