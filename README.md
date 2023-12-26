@@ -8,9 +8,9 @@
 
 ## Work in games -  
 
-BattleEye
+BattleEy
  
-PUBG
+PUBG 
 EF 
 Day
 R6:Siege
