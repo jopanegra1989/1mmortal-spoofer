@@ -8,11 +8,11 @@
 BattleE 
 PUB  
 R6:Siege         
-Unturn 
+Unturn
 Fortnit        
      
 Easy Anti-che 
-Ap  
+Ap   
 Rust 
 SCU
 Dead by Daylight
