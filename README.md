@@ -9,9 +9,9 @@ BattleE
 PUB     
 R6:Siege              
 Fortnit           
-Easy Anti-ch 
+Easy Anti-ch
 Ap   
-Ru
+Ru 
 SCU  
 Dead by Daylig
 Enlisted 
