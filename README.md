@@ -10,9 +10,9 @@ PUB
 R6:Siege          
 Unturn 
 Fortnit      
-   
+    
 Easy Anti-cheat
-Ape
+Ap
 Rust 
 SCUM
 Dead by Daylight
