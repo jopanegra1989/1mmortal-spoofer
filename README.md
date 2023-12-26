@@ -7,10 +7,10 @@
 ## Work in game
 BattleE   
 PUB   
-R6:Siege            
+R6:Siege             
 Fortnit          
 Easy Anti-che
-Ap      
+Ap     
 Rust
 SCU
 Dead by Daylight
