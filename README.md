@@ -9,8 +9,8 @@ BattleE
 PUB       
 R6:Siege              
 Fortnit                  
-Eas   
-Ap      
+Eas  
+Ap       
 SCU 
 Dead by Day
 Enlisted   
