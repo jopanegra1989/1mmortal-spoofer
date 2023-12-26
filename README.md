@@ -10,8 +10,8 @@
 BattleE 
 PUBG
 EF    
-Da
-R6:Siege
+D
+R6:Siege 
 Unturned
 Arma 3
 Fortnite
