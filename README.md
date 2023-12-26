@@ -10,8 +10,8 @@ PUB
 EF  
 R6:Siege       
 Unturn   
-Ar 
-Fortnit  
+Ar
+Fortnit   
 
 Easy Anti-cheat 
  
