@@ -10,8 +10,8 @@ PUB
 R6:Siege            
 
 Fortnit        
-Easy Anti-che 
-Ap      
+Easy Anti-che
+Ap       
 Rust
 SCU
 Dead by Daylight
