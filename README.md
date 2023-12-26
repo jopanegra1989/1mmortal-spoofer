@@ -9,11 +9,11 @@ BattleE
 PUB       
 R6:Siege             
 Fortnit              
-Easy 
+Easy  
 Ap   
 SCU   
 Dead by Day    
-Enlisted  
+Enlisted 
 Fortni
 
 
