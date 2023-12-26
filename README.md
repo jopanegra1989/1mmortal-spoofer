@@ -9,12 +9,12 @@ BattleE
 PUB   
 R6:Siege          
 Unturn 
-Fortnit     
+Fortnit      
      
 Easy Anti-cheat
 Ap
 Rust 
-SCUM
+SCU
 Dead by Daylight
 Enlisted
 Fortnite
