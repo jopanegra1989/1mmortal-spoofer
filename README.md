@@ -12,8 +12,8 @@ Fortnit
 Easy Anti- 
 Ap     
  
-SCU   
-Dead by Day  
+SCU    
+Dead by Day 
 Enlisted  
 Fortnit
 
