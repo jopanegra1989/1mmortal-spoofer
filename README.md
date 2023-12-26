@@ -11,8 +11,8 @@ PUB
 EF    
 R6:Siege   
 Unturned 
-Arma 
-Fortnit
+Arma
+Fortnit 
  
 Easy Anti-cheat:
 
