@@ -7,13 +7,13 @@
 ## Work in games -
 BattleE  
 PUB  
-EF     
+EF      
 R6:Siege      
 Unturne
 Arm
 Fortnit 
    
-Easy Anti-cheat:
+Easy Anti-cheat
 
 Apex
 Rust
