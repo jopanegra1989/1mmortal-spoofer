@@ -8,8 +8,8 @@
 BattleE     
 PUB      
 R6:Siege             
-Fortnit              
-Easy An
+Fortnit               
+Easy A
 Ap   
 SCU   
 Dead by Day   
