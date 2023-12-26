@@ -11,8 +11,8 @@ R6:Siege
 Fortnit              
 Easy   
 Ap   
-SCU  
-Dead by Day    
+SCU   
+Dead by Day   
 Enlisted 
 Fortni
 
