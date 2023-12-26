@@ -8,8 +8,8 @@
 BattleE   
 PUB    
 R6:Siege             
-Fortnit           
-Easy Anti-ch 
+Fortnit            
+Easy Anti-ch
 Ap     
 Rust
 SCU
