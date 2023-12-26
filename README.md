@@ -7,13 +7,13 @@
 ## Work in game 
 BattleE      
 PUB       
-R6:Siege             
+R6:Siege            
 Fortnit              
 Easy   
 Ap   
 SCU   
 Dead by Day  
-Enlisted 
+Enlisted  
 Fortni
 
 
