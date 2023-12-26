@@ -11,8 +11,8 @@ R6:Siege
 Unturn
 Fortnit        
      
-Easy Anti-chea
-Ap
+Easy Anti-che
+Ap 
 Rust 
 SCU
 Dead by Daylight
