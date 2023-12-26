@@ -10,10 +10,10 @@ PUB
 R6:Siege             
 Fortnit           
 Easy Anti-ch 
-Ap    
+Ap     
 Rust
 SCU
-Dead by Dayligh
+Dead by Daylig
 Enlisted 
 Fortnit
 
