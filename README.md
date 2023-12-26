@@ -7,11 +7,11 @@
 ## Work in game
 BattleE   
 PUB  
-R6:Siege         
+R6:Siege          
 Untur 
 Fortnit       
 
-Easy Anti-che 
+Easy Anti-che
 Ap   
 Rust 
 SCU
