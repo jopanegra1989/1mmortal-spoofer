@@ -11,8 +11,8 @@ R6:Siege
 Fortnit          
 Easy Anti-c 
 Ap    
-Ru  
-SCU  
+Ru 
+SCU   
 Dead by Day
 Enlisted  
 Fortnit
