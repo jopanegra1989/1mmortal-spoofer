@@ -9,8 +9,8 @@
  
 BattleE 
 
-PUBG 
-EF 
+PUBG
+EF  
 Day
 R6:Siege
 Unturned
