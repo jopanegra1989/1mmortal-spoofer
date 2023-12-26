@@ -9,9 +9,9 @@ BattleE
 PUB   
 EF      
 R6:Siege      
-Unturne
+Unturn
 Arm
-Fortnit 
+Fortnit  
 
 Easy Anti-cheat
 
