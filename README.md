@@ -10,10 +10,10 @@ PUB
 EF  
 R6:Siege      
 Unturn    
-Arm
+Ar
 Fortnit  
 
-Easy Anti-cheat
+Easy Anti-cheat 
  
 Apex
 Rust
