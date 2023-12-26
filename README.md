@@ -8,8 +8,8 @@
 ## Work in games - 
  
 BattleE 
-PUBG
-EF    
+PUB
+EF     
 D
 R6:Siege 
 Unturned
