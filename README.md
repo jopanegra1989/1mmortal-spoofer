@@ -9,10 +9,10 @@ BattleE
 PUB        
 R6:Siege                   
 Fortnit              
-Eas  
+Eas 
 Ap   
 SCU 
-Dead by Da
+Dead by Da 
 Enlisted   
 Fort
 
