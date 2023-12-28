@@ -8,11 +8,11 @@
 BattleE       
 PUB         
 R6:Siege                    
-Fortnit                 
+Fortnit                  
 Ea
 Ap   
 SC
-Dead by Da  
+Dead by Da 
 Enlisted  
 For
 
