@@ -10,8 +10,8 @@ PUB
 R6:Siege                  
 Fortnit                    
 E   
-Ap   
-Dead by Da 
+Ap  
+Dead by Da  
 Enlisted   
 For
 
