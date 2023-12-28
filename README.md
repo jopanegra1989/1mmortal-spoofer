@@ -9,9 +9,9 @@ BattleE
 PUB         
 R6:Siege                    
 Fortnit                 
-E
+E 
 Ap    
-SC
+S
 Dead by Da 
 Enlisted  
 For
