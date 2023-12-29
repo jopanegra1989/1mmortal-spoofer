@@ -7,11 +7,11 @@
 ## Work in game   
 BattleE     
 PUB         
-R6:Siege                  
+R6:Siege                   
 Fortnit                    
 E   
 Ap  
-Dead by Da   
+Dead by Da  
 Enlisted   
 For
 
